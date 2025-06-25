@@ -1,6 +1,3 @@
-Of course. Here is the complete Markdown code for your GitHub profile README. You can copy and paste it directly.
-
-```markdown
 # Hi there, I'm Anshumaan (or Manas) Singh 👋
 
 <a href="https://krosskinetic.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-krosskinetic.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a>
@@ -76,4 +73,3 @@ Here are a few projects I'm particularly proud of. You can find more on my [port
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrossKinetic&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </p>
-```
