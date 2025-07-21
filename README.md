@@ -16,6 +16,8 @@ Inspired by *Star Wars*, my ultimate goal is to build a real-life C-3PO! 🤖
 
 I'm an AI Researcher at the **Language Understanding and Reasoning (LUNR) Lab** at Stony Brook University. My work is centered on enhancing the performance of Large Language Models (LLMs) for Retrieval Augmented Generation (RAG), especially within code-related problem domains.
 
+I'm also working on a privacy-first Android app that inteligently manages notifications for you using on-device Llama3.2-3B-q8 model.
+
 ### 🛠️ My Tech Stack & Skills
 
 #### Programming Languages
