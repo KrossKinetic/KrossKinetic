@@ -66,13 +66,3 @@ Here are a few projects I'm particularly proud of. You can find more on my [port
 * 📧 **Email:** [anshumaanvsingh@gmail.com](mailto:anshumaanvsingh@gmail.com)
 * 💼 **LinkedIn:** [Anshumaan Singh](https://www.linkedin.com/in/anshumaan-singh-4a9750286/)
 * 📷 **Instagram:** [@krosskinetic](https://www.instagram.com/krosskinetic/) (Check out my photography!)
-
-### 📊 My GitHub Stats
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrossKinetic&show_icons=true&theme=tokyonight&rank_icon=github" alt="Anshumaan's GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrossKinetic&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
